@@ -17,7 +17,7 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
 - [View Code]([https://github.com/your-repo](https://github.com/spalaciobe/PID_Control_DDR_ROS.git))
-- ![Project Screenshot](path/to/screenshot.png)
+- ![Project Screenshot](images/PID_Control_DDR_ROS_Image.png)
 
 ---
 
