@@ -1,21 +1,51 @@
-# Portfolio
+# Sebastian Palacio Betancur - Projects Portfolio
 
-** Sebastian Palacio Betancur ** 
-Control Engineering 
+## About Me
+I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics**, **AI**, **Data Science**, and **Networking**. I have experience working on a wide range of projects from object detection using deep learning models to designing autonomous robotic systems. I strive to solve real-world problems with innovative technology.
 
-Welcome to my portfolio! Here you'll find various projects showcasing my experience in robotics, C++, and ROS. I've worked on autonomous navigation, control algorithms, and machine learning in robotics applications.
+### Contact Information
+- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/sebastianpalaciobetancur)
+- **GitHub**: [GitHub Profile](https://github.com/spalaciobe)
+- **Email**: [sebaspalacio02@gmail.com](mailto:sebaspalacio02@gmail.com)
 
-## Projects
-### Robotics
-* PID Control of Differential Drive Robot in ROS
-Incoming:
-  * Autonomous Docking for Differential Drive Robots Using a PID Controller in ROS
-  * Autonomous Navigation ...
+## 🛠️ Featured Projects
 
-### Computer Vision
-* YOLOv9 models for leaf disease detection
+### 1. **[PID Control of Differential Drive Robot with ROS]**
+**Objective**: verbos.
 
-### Microcontrollers
-* Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino
+- **Technologies**: Python, ROS.
+- **Description**: Explanation of the system, design, and key challenges faced.
+- **Outcome**: Results achieved or the impact of the project.
+- [View Code](https://github.com/your-repo)
+- ![Project Screenshot](path/to/screenshot.png)
+
+---
+
+### 2. **[YOLOv9 models for leaf disease detection]**
+**Objective**: Brief description of the problem and goal.
+
+- **Technologies**: Python, TensorFlow, ROS, RPi, etc.
+- **Description**: Explanation of the system, design, and key challenges faced.
+- **Outcome**: Results achieved or the impact of the project.
+- [View Code](https://github.com/your-repo)
+- ![Project Screenshot](path/to/screenshot.png)
+
+### 3. **[Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino]**
+**Objective**: Brief description of the problem and goal.
+
+- **Technologies**: Python, TensorFlow, ROS, RPi, etc.
+- **Description**: Explanation of the system, design, and key challenges faced.
+- **Outcome**: Results achieved or the impact of the project.
+- [View Code](https://github.com/your-repo)
+- ![Project Screenshot](path/to/screenshot.png)
+
+### 4. **[Serial Communication-Based Motor Control Using PIC16F877A]**
+**Objective**: Brief description of the problem and goal.
+
+- **Technologies**: Python, TensorFlow, ROS, RPi, etc.
+- **Description**: Explanation of the system, design, and key challenges faced.
+- **Outcome**: Results achieved or the impact of the project.
+- [View Code](https://github.com/your-repo)
+- ![Project Screenshot](path/to/screenshot.png)
 
 
