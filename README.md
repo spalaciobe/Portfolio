@@ -10,7 +10,7 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 
 ## 🛠️ Featured Projects
 
-### 1. **[PID Control of Differential Drive Robot with ROS]**
+### 1. PID Control of Differential Drive Robot with ROS
 **Objective**: verbos.
 
 - **Technologies**: Python, ROS.
@@ -21,7 +21,7 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 
 ---
 
-### 2. **[YOLOv9 models for leaf disease detection]**
+### 2. YOLOv9 models for leaf disease detection
 **Objective**: Brief description of the problem and goal.
 
 - **Technologies**: Python, TensorFlow, ROS, RPi, etc.
@@ -30,7 +30,9 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 - [View Code](https://github.com/your-repo)
 - ![Project Screenshot](path/to/screenshot.png)
 
-### 3. **[Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino]**
+---
+
+### 3. Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino
 **Objective**: Brief description of the problem and goal.
 
 - **Technologies**: Python, TensorFlow, ROS, RPi, etc.
@@ -39,7 +41,9 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 - [View Code](https://github.com/your-repo)
 - ![Project Screenshot](path/to/screenshot.png)
 
-### 4. **[Serial Communication-Based Motor Control Using PIC16F877A]**
+---
+
+### 4. Serial Communication-Based Motor Control Using PIC16F877A
 **Objective**: Brief description of the problem and goal.
 
 - **Technologies**: Python, TensorFlow, ROS, RPi, etc.
@@ -48,4 +52,4 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 - [View Code](https://github.com/your-repo)
 - ![Project Screenshot](path/to/screenshot.png)
 
-
+---
