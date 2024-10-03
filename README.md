@@ -24,7 +24,7 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 ### 2. YOLOv9 models for leaf disease detection
 **Objective**: Brief description of the problem and goal.
 
-- **Technologies**: Python, TensorFlow, ROS, RPi, etc.
+- **Technologies**: Python, YOLO.
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
 - [View Code]([https://github.com/your-repo](https://github.com/spalaciobe/YOLOv9_Leaf_disease_detection.git))
