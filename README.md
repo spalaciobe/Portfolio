@@ -1,5 +1,8 @@
 # Portfolio
 
+** Sebastian Palacio Betancur ** 
+Control Engineering 
+
 Welcome to my portfolio! Here you'll find various projects showcasing my experience in robotics, C++, and ROS. I've worked on autonomous navigation, control algorithms, and machine learning in robotics applications.
 
 ## Projects
