@@ -16,7 +16,7 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 - **Technologies**: Python, ROS.
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
-- [View Code]([https://github.com/your-repo](https://github.com/spalaciobe/PID_Control_DDR_ROS.git)) \
+- [View Code](https://github.com/spalaciobe/PID_Control_DDR_ROS.git) \
   <img src="images/PID_Control_DDR_ROS_Image.png" alt="Project Screenshot" width="600">
 
 ---
@@ -27,7 +27,7 @@ I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics
 - **Technologies**: Python, YOLO.
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
-- [View Code]([https://github.com/your-repo](https://github.com/spalaciobe/YOLOv9_Leaf_disease_detection.git)) \
+- [View Code](https://github.com/spalaciobe/YOLOv9_Leaf_disease_detection.git) \
   <img src="images/YOLOv9_Leaf_disease_detection_Image.jpg" alt="Project Screenshot" width="400">
 
 ---
