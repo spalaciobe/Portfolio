@@ -19,11 +19,11 @@ I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Scienc
 ---
 
 ### 2. YOLOv9 models for leaf disease detection
-**Objective**: Brief description of the problem and goal.
+**Objective**: Develop a system to accurately detect and classify leaf diseases in plants using YOLOv9 models.
 
-- **Technologies**: Python, YOLO.
-- **Description**: Explanation of the system, design, and key challenges faced.
-- **Outcome**: Results achieved or the impact of the project.
+- **Technologies**: Python, YOLO, Jupyter Notebook.
+- **Description**:  This project involves custom training of YOLOv9 models for tomato leaf disease detection, transforming the PlantVillage dataset into an object detection format, and evaluating model performance. Key challenges included data augmentation and accurate annotation for detection tasks.
+- **Outcome**: The trained models achieved high precision and recall in detecting leaf diseases, demonstrating their effectiveness for agricultural management.
 - [GitHub Repository](https://github.com/spalaciobe/YOLOv9_Leaf_disease_detection.git) \
   <img src="images/YOLOv9_Leaf_disease_detection_Image.jpg" alt="Project Image" width="600">
 ---
