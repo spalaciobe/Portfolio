@@ -4,7 +4,7 @@
 I'm Sebastian Palacio Betancur, a passionate engineer specializing in **Robotics**, **AI** and **Data Science**. I have experience working on a wide range of projects from object detection using deep learning models to designing autonomous robotic systems. I strive to solve real-world problems with innovative technology.
 
 ### Contact Information
-- **LinkedIn**: [LinkedIn Profile](www.linkedin.com/in/sebastianpalaciobetancur)
+- **LinkedIn**: [LinkedIn Profile](https://linkedin.com/in/sebastianpalaciobetancur)
 - **GitHub**: [GitHub Profile](https://github.com/spalaciobe)
 - **Email**: [sebaspalacio02@gmail.com](mailto:sebaspalacio02@gmail.com)
 
