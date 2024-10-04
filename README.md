@@ -15,7 +15,7 @@ I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Scienc
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
 - [GitHub Repository](https://github.com/spalaciobe/PID_Control_DDR_ROS.git) \
-  <img src="images/PID_Control_DDR_ROS_Image.png" alt="Project Screenshot" width="600">
+  <img src="images/PID_Control_DDR_ROS_Image.png" alt="Project Image" width="600">
 ---
 
 ### 2. YOLOv9 models for leaf disease detection
@@ -25,7 +25,7 @@ I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Scienc
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
 - [GitHub Repository](https://github.com/spalaciobe/YOLOv9_Leaf_disease_detection.git) \
-  <img src="images/YOLOv9_Leaf_disease_detection_Image.jpg" alt="Project Screenshot" width="400">
+  <img src="images/YOLOv9_Leaf_disease_detection_Image.jpg" alt="Project Image" width="600">
 ---
 
 ### 3. Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino
@@ -34,8 +34,8 @@ I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Scienc
 - **Technologies**: Python, TensorFlow, ROS, RPi, etc.
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
-- [GitHub Repository](https://github.com/your-repo)
-- ![Project Screenshot](path/to/screenshot.png)
+- [GitHub Repository](https://github.com/spalaciobe/Furuta_Pendulum_Arduino.git) \
+  <img src="images/Furuta_Pendulum_Arduino_Image.gif" alt="Project Image" width="250">
 ---
 
 ### 4. Serial Communication-Based Motor Control Using PIC16F877A
@@ -44,6 +44,6 @@ I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Scienc
 - **Technologies**: Python, TensorFlow, ROS, RPi, etc.
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
-- [GitHub Repository](https://github.com/your-repo)
-- ![Project Screenshot](path/to/screenshot.png)
+- [GitHub Repository](https://github.com/spalaciobe/Serial_Motor_Control_PIC.git) \
+  <img src="images/Serial_Motor_Control_PIC_Image.gif" alt="Project Image" width="600">
 
