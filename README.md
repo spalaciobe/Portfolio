@@ -9,41 +9,21 @@ I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Scienc
 ## Featured Projects
 
 ### 1. PID Control of Differential Drive Robot with ROS
-**Objective**: verbos.
-
-- **Technologies**: Python, ROS.
-- **Description**: Explanation of the system, design, and key challenges faced.
-- **Outcome**: Results achieved or the impact of the project.
-- [GitHub Repository](https://github.com/spalaciobe/PID_Control_DDR_ROS.git) \
+This project involves developing a PID controller for autonomous TurtleBot3 navigation using ROS within a Docker environment. It showcases the robot's ability to navigate to designated coordinates while ensuring precise movement control. \
   <img src="images/PID_Control_DDR_ROS_Image.gif" alt="Project Image" width="600">
 ---
 
 ### 2. YOLOv9 models for leaf disease detection
-**Objective**: Develop a system to accurately detect and classify leaf diseases in plants using YOLOv9 models.
-
-- **Technologies**: Python, YOLO, Jupyter Notebook.
-- **Description**:  This project involves custom training of YOLOv9 models for tomato leaf disease detection, transforming the PlantVillage dataset into an object detection format, and evaluating model performance. Key challenges included data augmentation and accurate annotation for detection tasks.
-- **Outcome**: The trained models achieved high precision and recall in detecting leaf diseases, demonstrating their effectiveness for agricultural management.
-- [GitHub Repository](https://github.com/spalaciobe/YOLOv9_Leaf_disease_detection.git) \
+This project utilizes YOLOv9 models to accurately detect and classify leaf diseases in plants. It encompasses custom training, transformation of the PlantVillage dataset into an object detection format, and evaluation of model performance, achieving high precision and recall. \
   <img src="images/YOLOv9_Leaf_disease_detection_Image.jpg" alt="Project Image" width="600">
 ---
 
 ### 3. Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino
-**Objective**: Brief description of the problem and goal.
-
-- **Technologies**: Python, TensorFlow, ROS, RPi, etc.
-- **Description**: Explanation of the system, design, and key challenges faced.
-- **Outcome**: Results achieved or the impact of the project.
-- [GitHub Repository](https://github.com/spalaciobe/Furuta_Pendulum_Arduino.git) \
+ \
   <img src="images/Furuta_Pendulum_Arduino_Image.gif" alt="Project Image" width="250">
 ---
 
 ### 4. Serial Communication-Based Motor Control Using PIC16F877A
-**Objective**: Brief description of the problem and goal.
-
-- **Technologies**: Python, TensorFlow, ROS, RPi, etc.
-- **Description**: Explanation of the system, design, and key challenges faced.
-- **Outcome**: Results achieved or the impact of the project.
-- [GitHub Repository](https://github.com/spalaciobe/Serial_Motor_Control_PIC.git) \
+\
   <img src="images/Serial_Motor_Control_PIC_Image.gif" alt="Project Image" width="600">
 
