@@ -15,7 +15,7 @@ I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Scienc
 - **Description**: Explanation of the system, design, and key challenges faced.
 - **Outcome**: Results achieved or the impact of the project.
 - [GitHub Repository](https://github.com/spalaciobe/PID_Control_DDR_ROS.git) \
-  <img src="images/PID_Control_DDR_ROS_Image.png" alt="Project Image" width="600">
+  <img src="images/PID_Control_DDR_ROS_Image.gif" alt="Project Image" width="600">
 ---
 
 ### 2. YOLOv9 models for leaf disease detection
