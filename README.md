@@ -21,6 +21,7 @@ This project utilizes YOLOv9 models to accurately detect and classify leaf disea
 ---
 
 ### 3. Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino
+This project implements a control system for a Rotary Inverted Pendulum using Arduino, focusing on advanced LQR and PD control algorithms. The system is supported by mathematical modeling and simulation, ensuring effective stabilization and performance in real-time applications.
 - [GitHub Repository](https://github.com/spalaciobe/Furuta_Pendulum_Arduino.git) \
   <img src="images/Furuta_Pendulum_Arduino_Image.gif" alt="Project Image" width="250">
 ---
