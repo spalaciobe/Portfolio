@@ -1,3 +1,5 @@
+<meta property="og:image" content="images/Preview.png" />
+
 ## About Me
 I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Science**. I have experience working on a wide range of projects from object detection using deep learning models to designing autonomous robotic systems. I strive to solve real-world problems with innovative technology.
 
