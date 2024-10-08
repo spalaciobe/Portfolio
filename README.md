@@ -11,7 +11,7 @@ I'm a passionate engineer specializing in **Robotics**, **AI** and **Data Scienc
 ### 1. PID Control of Differential Drive Robot with ROS
 This project involves developing a PID controller for autonomous TurtleBot3 navigation using ROS within a Docker environment. It showcases the robot's ability to navigate to designated coordinates while ensuring precise movement control. 
 - For more information, see the [GitHub Repository](https://github.com/spalaciobe/PID_Control_DDR_ROS.git) \
-  <img src="images/PID_Control_DDR_ROS_Image.gif" alt="Project Image" width="600">
+  <img src="images/PID_Control_DDR_ROS_Image.gif" alt="Project Image" width="650">
 ---
 
 ### 2. YOLOv9 models for leaf disease detection
@@ -24,7 +24,7 @@ This project utilizes YOLOv9 models to accurately detect and classify leaf disea
  This project is a 3-band equalizer plugin built with modern C++ and the JUCE framework, featuring real-time audio spectrum analysis. It allows users to adjust low, mid, and high frequencies with a user-friendly interface for precise sound control.
 
 - For more information, see the [GitHub Repository](https://github.com/spalaciobe/Audio_Plugin_Cpp.git) \
-  <img src="images/SimpleEQ1.gif" alt="Project Image" width="600">
+  <img src="images/SimpleEQ1.gif" alt="Project Image" width="500">
 
 ---
 
