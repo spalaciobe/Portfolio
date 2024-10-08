@@ -1,3 +1,7 @@
+<head>
+      {/* all socials */}
+      <meta property="og:image" content="images/Preview.png" />
+</head>
 <meta property="og:image" content="images/Preview.png" />
 
 ## About Me
