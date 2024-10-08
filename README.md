@@ -20,13 +20,21 @@ This project utilizes YOLOv9 models to accurately detect and classify leaf disea
   <img src="images/YOLOv9_Leaf_disease_detection_Image.jpg" alt="Project Image" width="600">
 ---
 
-### 3. Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino
+### 3. 3-Band Equalizer Plugin (C++ & JUCE Framework)
+ This project is a 3-band equalizer plugin built with modern C++ and the JUCE framework, featuring real-time audio spectrum analysis. It allows users to adjust low, mid, and high frequencies with a user-friendly interface for precise sound control.
+
+- For more information, see the [GitHub Repository](https://github.com/spalaciobe/Audio_Plugin_Cpp.git) \
+  <img src="images/SimpleEQ1.gif" alt="Project Image" width="600">
+
+---
+
+### 4. Control of Rotary Inverted Pendulum (Furuta Pendulum) using Arduino
 This project implements a control system for a Rotary Inverted Pendulum using Arduino, focusing on advanced LQR and PD control algorithms. The system is supported by mathematical modeling and simulation, ensuring effective stabilization and performance in real-time applications.
 - For more information, see the [GitHub Repository](https://github.com/spalaciobe/Furuta_Pendulum_Arduino.git) \
   <img src="images/Furuta_Pendulum_Arduino_Image.gif" alt="Project Image" width="250">
----
 
-### 4. Serial Communication-Based Motor Control Using PIC16F877A
+---
+### 5. Serial Communication-Based Motor Control Using PIC16F877A
  This project showcases the control of a DC motor using a PIC microcontroller via serial communication. Designed in Proteus, it features real-time simulation of motor behavior, fault detection, and adjustment of speed and direction through user commands.
 
 - For more information, see the [GitHub Repository](https://github.com/spalaciobe/Serial_Motor_Control_PIC.git) \
