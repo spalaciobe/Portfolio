@@ -1,5 +1,5 @@
 <head>
-      <meta property="og:image" content="https://spalaciobe.github.io/Portfolio/images/Preview.png" />
+      <meta property="og:image" content="http://spalaciobe.github.io/Portfolio/images/Preview.png" />
 </head>
 
 ## About Me
